@@ -1,0 +1,30 @@
+# integracao_python_Google_sheets
+
+## Descrição do Projeto
+O projeto tem como objetico consultar dados de uma api adicona-los a um data frame envia-lás a uma planilha do Google planilhas
+
+### Bibliotecas utilizadas
+* 🐼: Pandas
+* 📈:gspread-dataframe
+* 🖥️: os
+* ↔️:requests
+* 📅 :datetime
+* ☑️:dotenv
+
+Instalando bibliotecas utilizadas
+
+* pip install schedule
+* pip install gspread-dataframe
+* pip install gspread oauth2client
+
+## Objetivo
+O objetivo deste projeto é realizar uma consulta a API OMIE trara o JSON e em seguida enviar ele a uma planilha do google sheets. Em seguida automatizar as consultas de dados e utilizar uma planilha do google Sheets como base para construção de um dashboard utilizando o Google Looker Studio.
+
+## Descrição da funcionalidade
+Após a consulta dos dados via API o código irá tratar e adiconar esses dados a um data frame, o dataframe gerado será adicionado sempre uma linha a baixo da ultima linha preenchida. 
+
+## EM CONTRUÇÃO
+Criar uma 
+
+Para maiores informações sobre a construção da consulta acesse o respositório <https://github.com/devdiogenes/omie_python_api>
+
