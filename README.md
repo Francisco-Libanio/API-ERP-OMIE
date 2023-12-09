@@ -20,6 +20,10 @@ Instalando bibliotecas utilizadas
 ## Objetivo
 O objetivo deste projeto é realizar uma consulta a API OMIE trara o JSON e em seguida enviar ele a uma planilha do google sheets. Em seguida automatizar as consultas de dados e utilizar uma planilha do google Sheets como base para construção de um dashboard utilizando o Google Looker Studio.
 
+# Fluxo dos dados
+
+![imagem simulando o fluxo de trabalho] (https://drive.google.com/file/d/1AUxz9FuXx-DAsdr-M4IZ-wmsqdZezrvh/view?usp=sharing)
+
 ## Descrição da funcionalidade
 Após a consulta dos dados via API o código irá tratar e adiconar esses dados a um data frame, o dataframe gerado será adicionado sempre uma linha a baixo da ultima linha preenchida. 
 
