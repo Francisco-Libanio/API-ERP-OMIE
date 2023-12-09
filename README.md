@@ -22,7 +22,7 @@ O objetivo deste projeto é realizar uma consulta a API OMIE trara o JSON e em s
 
 # Fluxo dos dados
 
-![imagem simulando o fluxo de trabalho] (https://drive.google.com/file/d/1AUxz9FuXx-DAsdr-M4IZ-wmsqdZezrvh/view?usp=sharing)
+![imagem simulando o fluxo de trabalho](https://drive.google.com/file/d/1AUxz9FuXx-DAsdr-M4IZ-wmsqdZezrvh/view?usp=sharing)
 
 ## Descrição da funcionalidade
 Após a consulta dos dados via API o código irá tratar e adiconar esses dados a um data frame, o dataframe gerado será adicionado sempre uma linha a baixo da ultima linha preenchida. 
