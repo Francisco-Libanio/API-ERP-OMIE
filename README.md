@@ -27,6 +27,10 @@ O objetivo deste projeto é realizar uma consulta a API OMIE trara o JSON e em s
 ## Descrição da funcionalidade
 Após a consulta dos dados via API o código irá tratar e adiconar esses dados a um data frame, o dataframe gerado será adicionado sempre uma linha a baixo da ultima linha preenchida. 
 
+
+## Consultando estoque 
+Dento do arquivo Consultando_estoque você terá um exemplo de uma consulta de estoque completa para vários Apps, 
+dentro dessa consulta serão gerados 5 Dataframes que serão enviados a uma plainha do Google sheets cada data frame em uma aba da planilha, case seja necessário a união de todos os Dtaframes em uma única Aba acomcelho utilizar a função QUERY do google planiha.
 ## EM CONTRUÇÃO
 Criar uma 
 
